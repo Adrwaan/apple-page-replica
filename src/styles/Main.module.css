@@ -1,0 +1,31 @@
+.section1 {
+  background: url(/images/sections/section1.png) no-repeat center/100%;
+}
+
+.section2 {
+  background: url(/images/sections/section2.png) no-repeat center/100%;
+}
+
+.section3 {
+  background: url(/images/sections/section3.png) no-repeat center/100%;
+}
+
+.iphone {
+  background: url(/images/products/iphone15.png) no-repeat center/100%;
+  background-size: cover;
+}
+
+.iphonepro {
+  background: url(/images/products/iphone15pro.png) no-repeat center/100%;
+  background-size: cover;
+}
+
+.watch {
+  background: url(/images/products/watch.png) no-repeat center/100%;
+  background-size: cover;
+}
+
+.macbook {
+  background: url(/images/products/macbook.png) no-repeat center/100%;
+  background-size: cover;
+}
