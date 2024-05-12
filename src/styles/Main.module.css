@@ -29,3 +29,13 @@
   background: url(/images/products/macbook.png) no-repeat center/100%;
   background-size: cover;
 }
+
+.card {
+  background: url(/images/products/card.png) no-repeat left/100%;
+  background-size: cover;
+}
+
+.trade {
+  background: url(/images/products/trade.png) no-repeat center/100%;
+  background-size: cover;
+}
