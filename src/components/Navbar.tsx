@@ -2,7 +2,7 @@ export default function Navbar() {
   return (
     <nav className="bg-whisper fixed inset-0 flex justify-center items-center w-screen h-min z-50">
       <div className="p-4 w-2/3 text-sm h-full">
-        <ul className="w-full flex flex-row gap-2 justify-between items-center">
+        <ul className="w-full flex flex-row gap-4 justify-between items-center">
           <li>
             <img
               src="/images/icons/Apple.svg"

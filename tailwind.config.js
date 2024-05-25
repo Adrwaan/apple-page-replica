@@ -5,6 +5,7 @@ export default {
     extend: {
       colors: {
         black80: "var(--black80)",
+        black56: "var(--black56)",
         whisper: "var(--whisper)",
         shark: "var(--shark)",
         sci_blue: {
@@ -15,7 +16,7 @@ export default {
       },
       fontFamily: {
         sfp: '"San Francisco Pro"',
-        sf: '"San Francisco',
+        sf: '"San Francisco"',
       },
     },
   },
