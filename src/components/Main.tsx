@@ -24,10 +24,10 @@ export default function Main() {
           src="/images/sections/vision.png"
           alt="Apple Vision Pro"
         />
-        <h2 className="text-white text-2xl absolute top-[81%] left-1/2 -translate-x-1/2 -translate-y-1/2 font-sfp">
+        <h2 className="text-white text-center text-2xl absolute top-[81%] left-1/2 -translate-x-1/2 -translate-y-1/2 font-sfp">
           You’ve never seen everything like this before.
         </h2>
-        <div className="flex justify-center items-center absolute top-[95%] left-[52.5%] -translate-x-1/2 -translate-y-1/2">
+        <div className="flex justify-center items-center absolute top-[95%] left-[55%] -translate-x-1/2 -translate-y-1/2">
           <button className="text-black border border-solid border-athens_gray font-medium transition-all duration-500 bg-athens_gray hover:bg-transparent hover:text-white px-5 py-3 rounded-full text-center -translate-x-1/2 -translate-y-1/2 font-sfp">
             Learn more
           </button>
@@ -42,7 +42,7 @@ export default function Main() {
         <h2 className="absolute top-[72%] text-shark left-1/2 font-semibold text-5xl text-center -translate-x-1/2 -translate-y-1/2 font-sfp">
           Apple Event
         </h2>
-        <h2 className="absolute top-[79.5%] text-shark left-1/2 font-normal text-2xl text-center -translate-x-1/2 -translate-y-1/2 font-sfps">
+        <h2 className="absolute top-[79.5%] text-shark left-1/2 font-normal text-center -translate-x-1/2 -translate-y-1/2 font-sfps">
           Watch online on 5/7 at 7 a.m. PT.
         </h2>
         <button className="absolute top-[88%] left-1/2 text-white font-medium transition-all duration-500 bg-sci_blue-base border border-solid border-sci_blue-base hover:bg-transparent hover:text-sci_blue-base px-5 py-3 rounded-full text-center -translate-x-1/2 -translate-y-1/2 font-sfp">

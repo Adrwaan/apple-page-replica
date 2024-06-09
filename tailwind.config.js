@@ -18,6 +18,9 @@ export default {
         sfp: '"San Francisco Pro"',
         sf: '"San Francisco"',
       },
+      screens: {
+        xs: "320px",
+      },
     },
   },
   plugins: [],
